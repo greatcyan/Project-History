@@ -24,7 +24,7 @@ I worked closely with operations and business development teams, helping streaml
 
 - I gathered business requirements, standardized data entry, and prepared data before building optimized data models, executive dashboards, and paginated reports.
   
-- This project significantly improved cross-functional coordination, increased condidence in the data, and enabled faster decission making.
+- The projects significantly reduced manual efforts in weekly and monthly reporting process, improved cross-functional coordination, increased condidence in the data, and enabled faster decission making.
 
 ---
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/715c3a36-ba4a-4a4e-889b-0cc15d579e0b" />
