@@ -49,7 +49,7 @@ I also worked part-time at AvantGuard, where I integrated data from IT and endpo
 
 --- 
 
-At Moderno Plant X, I built dashboards to monitor manufacturing operational metrics, including Overall Equipment Effectiveness (OEE), in near real time, helping operations teams identify issues quickly and improve overall performance.
+**Moderno Plant X**, Built near OEE dashboards to monitor machine performance and equipment utilization.
 
 --- 
-At Excigence, I built a Python application to manage electronics test procedures and scripts for semiconductor device production. It uses Pandas and Matplotlib to automatically analyze the test data, generate summarized logs, and create reports after each run, which really helped make the testing process faster and more accurate.
+**At Excigence** |  Built a Python desktop application using Tkinter for the GUI and Pandas and Matplotlib for data preparation, analysis, and automated report generation for semiconductor electronics final testing.
