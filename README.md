@@ -1,7 +1,7 @@
-# Project-History
+# Projects
 
 
-# ☑️📌 About the Author
+## ☑️About myself
 My name is **Cyrus Baruc**, I’m 34 years old, based in Lapu-Lapu City with my wife and kids.  
 My family is my daily motivation—they inspire me and keep me grounded.
 
@@ -18,7 +18,7 @@ My goal is to **inspire other professionals to see the power of data**.
 I believe **data is the new oil**—it fuels innovation, efficiency, and smarter decisions.  
 I want to continue growing in this field and use my success as a way to encourage others to embrace data as a driver of transformation.
 
-# ⭐⭐⭐⭐ Projects
+## ☑️ Projects
 <img width="126" height="113" alt="image" src="https://github.com/user-attachments/assets/85f2242f-797b-4d22-8664-b0ccb8375e2c" />
 
 **Client**: D&E Air Conditioning Pty Ltd — Australia‑wide Mechanical Services & Air Conditioning solutions
