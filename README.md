@@ -27,6 +27,8 @@ I worked closely with operations and business development teams, helping streaml
   
 - The projects significantly reduced manual effort in weekly and monthly reporting processes, improved team coordination across departments, increased confidence in the data, and enabled faster decision-making.
 
+*While Fabric isn’t yet adopted at D&E, I’ve built and tested Fabric-based architectures in parallel to stay current.*
+
 ---
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/715c3a36-ba4a-4a4e-889b-0cc15d579e0b" />
 
