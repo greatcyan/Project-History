@@ -1,22 +1,12 @@
 # Projects
 
 
-## ☑️About myself
-My name is **Cyrus Baruc**, I’m 34 years old, based in Lapu-Lapu City with my wife and kids.  
-My family is my daily motivation—they inspire me and keep me grounded.
+## ☑️About me
+My name is Cyrus, and I’m based in Lapu-Lapu City with my wife and kids—they inspire me to give my best every day. Professionally, I specialize in Power BI, helping businesses streamline and automate their reporting processes. I handle end-to-end solutions, including ETL, data modeling, dashboarding, and maintaining Power BI assets.
 
-I worked as an **Electronics Technician** for more than ten years.  
-During that time, I also explored **stock trading** and started learning **data analysis, data visualization, Python, and Excel**.  
-Those experiences gave me both a strong analytical foundation and the perspective of a **business user**—understanding how data and charts connects to strategy and decision-making.  
+Outside of work, I honestly enjoy catching up on sleep to recharge, but I always make sure to spend quality time with my family.
 
-That combination helped me transition into **data and business intelligence**.  
-Today, I specialize in **Power BI**, focusing not only on building dashboards but also on **data processing, data modeling and ETL**, ensuring the data is clean, reliable, and delivers real business value.
-
-Outside of work, I enjoy **journaling** to capture ideas that come to me during the day, and I make sure to spend quality time with my family.
-
-My goal is to **inspire other professionals to see the power of data**.  
-I believe **data is the new oil**—it fuels innovation, efficiency, and smarter decisions.  
-I want to continue growing in this field and use my success as a way to encourage others to embrace data as a driver of transformation.
+I believe data is the new oil, and my goal is to keep growing in this field while using my experience to inspire others to embrace data as a driver of transformation.
 
 ## ☑️ Projects
 <img width="126" height="113" alt="image" src="https://github.com/user-attachments/assets/85f2242f-797b-4d22-8664-b0ccb8375e2c" />
