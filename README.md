@@ -21,7 +21,7 @@ At D&E Air Conditioning, I worked on projects like project tracking dashboards a
 Before D&E, I worked at Lexmark as a Finance Business Analyst, partnering closely with finance stakeholders to gather requirements and translate them into BI solutions using data from the business warehouse. I processed and modeled data, then delivered dashboards such as OPEX Analytics, Revenue Analytics, and Cost Center Analytics, providing a quick view of top cost and revenue drivers with drill-down analysis. This reduced manual effort and streamlined monthly reporting, allowing analysts to focus more on analysis and insights.
 
 --- 
-<img width="391" height="75" alt="image" src="https://github.com/user-attachments/assets/b1f37ace-f7a0-4d6f-85f5-c63e7ef1e6b7" />
+<img width="195" height="38" alt="image" src="https://github.com/user-attachments/assets/b1f37ace-f7a0-4d6f-85f5-c63e7ef1e6b7" />
 
 I worked part-time at AvantGuard, integrating data from IT operations and endpoint management tools like HaloPSA, NinjaOne, and Cove to build internal dashboards that monitored users and machines and enabled cross-validation across systems. I later worked with one of their clients to migrate from Excel-based reporting to Power BI, handling ETL, dimensional modeling, report and dashboard development, including paginated reports and executive dashboards like the Income Statement and P&L. This provided quick-glance insights and faster decision-making through executive summaries with drill-down analysis.
 
