@@ -2,6 +2,8 @@
 
 
 ## ☑️About me
+I spent 10 years as an electronics technician, then intentionally transitioned into BI. I’ve built strong fundamentals in data modeling, ETL, and analytics across operations, finance, and IT. Now my focus is scaling those skills into enterprise and consulting environments.
+
 - My name is Cyrus, and I’m based in Lapu-Lapu City with my wife and kids—they inspire me to give my best every day. 
 
 - Professionally, I specialize in Power BI, helping businesses streamline and automate their reporting processes.
@@ -17,14 +19,13 @@
 
 **At D&E Air Conditioning**
 
-*Mechanical services and air conditioning solutions across AUS* 
-*Large scale projects: commercial buildings, hotels, mall, hospitals*
+*D&E is a mechanical services and air conditioning solutions leader in Australia. They supported large-scale projects: commercial buildings, hotels, mall, hospitals*
 
 I worked closely with operations and business development teams, helping streamline their reporting processes for project tracking, EHS/health & safety, tools inventory, tender phasing, and revenue forecasting.
 
 - I gathered business requirements, standardized data entry, and prepared data before building optimized data models, executive dashboards, and paginated reports.
   
-- The projects significantly reduced manual efforts in weekly and monthly reporting process, improved cross-functional coordination, increased condidence in the data, and enabled faster decission making.
+- The projects significantly reduced manual effort in weekly and monthly reporting processes, improved team coordination across departments, increased confidence in the data, and enabled faster decision-making.
 
 ---
 <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/715c3a36-ba4a-4a4e-889b-0cc15d579e0b" />
