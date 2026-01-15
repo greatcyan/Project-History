@@ -12,36 +12,20 @@
 
 ## ☑️ Projects
 <img width="126" height="113" alt="image" src="https://github.com/user-attachments/assets/85f2242f-797b-4d22-8664-b0ccb8375e2c" />
-
-**Client**: D&E Air Conditioning Pty Ltd — Australia‑wide Mechanical Services & Air Conditioning solutions
-
-**Projects Supported:**  
-- Large‑scale commercial buildings (offices, hotels, shopping centres)  
-- Industrial facilities and manufacturing plants  
-- Hospitals, laboratories, and pharmaceutical environments  
-- Data centres and technology hubs  
-- Education and government infrastructure
-  
-**Stakeholders:** Project Managers, Construction Managers, Engineering Managers, Executives, General Manager
-  
-**Projects:**  Project Tracking Dashboards | Tender Phasing & Revenue Forecasting | Dynamics 365 Model‑Driven Power Apps Support
-- Gathered business requirements using a structured template, ensuring stakeholder alignment and clarity of project objectives.
-- Prepared data using Dataflows Gen1 and Power Query, applying medallion architecture principles to process structured, semi‑structured, and unstructured data, consolidating diverse on‑premises sources into a staging dataflow for streamlined transformation and enterprise reporting.
-- Applied snowflake and star schema principles to design optimized data models, improving query performance and reducing report load times in the reporting layer.
-- Developed executive‑ready dashboards with drill‑down analytics, enabling self‑service insights through intuitive visualizations and paginated reports tailored to business needs.
-- Validated data accuracy, managed workspaces, and applied security roles for secure asset sharing; performed ad‑hoc analyses to resolve data mismatches and deliver additional views and features requested by stakeholders.
+At D&E Air Conditioning, I worked on projects like project tracking dashboards and revenue forecasting. I gathered requirements, standardized their data entry, and prepared data using Dataflows and Power Query, then built optimized data models, executive dashboards, and paginated reports. I was also responsible for workspace administration, security roles and user permissions. 
 
 ---
-
-Before D&E, I worked at Lexmark as a Finance Business Analyst. I partnered closely with finance stakeholders to gather business requirements and translate them into BI solutions for forecasting, budgeting, and performance reporting. I led multiple reporting projects, delivering dashboards for revenue, cost, OPEX, cost center analysis, extended warranty amortization, and worldwide expense bridging. I ensured data accuracy and governance and continuously optimized BI solutions to support evolving business needs.
-
---- 
-
-I also worked part-time at AvantGuard, where I integrated data from IT and endpoint management applications such as Halopsa, NinjaOne, Cove, and others to build internal dashboards monitoring users, machines, and devices. Later, I delivered client-facing BI projects, performing ETL, dimensional modeling, and dashboard development to automate financial reporting and replace manual spreadsheets. This reduced manual effort, improved accuracy and scalability, and gave clients clearer operational and financial insights. 
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/715c3a36-ba4a-4a4e-889b-0cc15d579e0b" />
+Before D&E, I worked at Lexmark as a Finance Business Analyst, partnering closely with finance stakeholders to gather requirements and translate them into BI solutions using data from the business warehouse. I processed and modeled data, then delivered dashboards such as OPEX Analytics, Revenue Analytics, and Cost Center Analytics, providing a quick view of top cost and revenue drivers with drill-down analysis. This reduced manual effort and streamlined monthly reporting, allowing analysts to focus more on analysis and insights.
 
 --- 
+<img width="391" height="75" alt="image" src="https://github.com/user-attachments/assets/b1f37ace-f7a0-4d6f-85f5-c63e7ef1e6b7" />
+I worked part-time at AvantGuard, integrating data from IT operations and endpoint management tools like HaloPSA, NinjaOne, and Cove to build internal dashboards that monitored users and machines and enabled cross-validation across systems. I later worked with one of their clients to migrate from Excel-based reporting to Power BI, handling ETL, dimensional modeling, report and dashboard development, including paginated reports and executive dashboards like the Income Statement and P&L. This provided quick-glance insights and faster decision-making through executive summaries with drill-down analysis.
 
+--- 
+<img width="396" height="91" alt="image" src="https://github.com/user-attachments/assets/0397d34a-fe87-4d46-83a5-e4a4b4ac650e" />
 **Moderno Plant X**, Built near OEE dashboards to monitor machine performance and equipment utilization.
 
 --- 
-**At Excigence** |  Built a Python desktop application using Tkinter for the GUI and Pandas and Matplotlib for data preparation, analysis, and automated report generation for semiconductor electronics final testing.
+<img width="609" height="163" alt="image" src="https://github.com/user-attachments/assets/378e878b-e56d-4d0f-9764-61d5dc487668" />
+**At Excigence** |  Built a Python desktop application using Tkinter for the GUI and Pandas and Matplotlib for data preparation, analysis, and automated report generation for final testing of electronics and electrical devices.
