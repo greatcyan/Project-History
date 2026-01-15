@@ -31,6 +31,6 @@ I worked part-time at AvantGuard, integrating data from IT operations and endpoi
 **Moderno Plant X**, Built near OEE dashboards to monitor machine performance and equipment utilization.
 
 --- 
-<img width="609" height="163" alt="image" src="https://github.com/user-attachments/assets/378e878b-e56d-4d0f-9764-61d5dc487668" />
+<img width="304" height="81" alt="image" src="https://github.com/user-attachments/assets/378e878b-e56d-4d0f-9764-61d5dc487668" />
 
 **At Excigence** |  Built a Python desktop application using Tkinter for the GUI and Pandas and Matplotlib for data preparation, analysis, and automated report generation for final testing of electronics and electrical devices.
