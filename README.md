@@ -11,7 +11,7 @@
 - I believe data is the new oil, and my goal is to keep growing in this field while using my experience to inspire others to embrace data as a driver of transformation.
 
 ## ☑️ Projects
-<img width="126" height="113" alt="image" src="https://github.com/user-attachments/assets/85f2242f-797b-4d22-8664-b0ccb8375e2c" />
+<img width="63" height="57" alt="image" src="https://github.com/user-attachments/assets/85f2242f-797b-4d22-8664-b0ccb8375e2c" />
 
 At D&E Air Conditioning, I worked on projects like project tracking dashboards and revenue forecasting. I gathered requirements, standardized their data entry, and prepared data using Dataflows and Power Query, then built optimized data models, executive dashboards, and paginated reports. I was also responsible for workspace administration, security roles and user permissions. 
 
@@ -26,7 +26,7 @@ Before D&E, I worked at Lexmark as a Finance Business Analyst, partnering closel
 I worked part-time at AvantGuard, integrating data from IT operations and endpoint management tools like HaloPSA, NinjaOne, and Cove to build internal dashboards that monitored users and machines and enabled cross-validation across systems. I later worked with one of their clients to migrate from Excel-based reporting to Power BI, handling ETL, dimensional modeling, report and dashboard development, including paginated reports and executive dashboards like the Income Statement and P&L. This provided quick-glance insights and faster decision-making through executive summaries with drill-down analysis.
 
 --- 
-<img width="396" height="91" alt="image" src="https://github.com/user-attachments/assets/0397d34a-fe87-4d46-83a5-e4a4b4ac650e" />
+<img width="198" height="46" alt="image" src="https://github.com/user-attachments/assets/0397d34a-fe87-4d46-83a5-e4a4b4ac650e" />
 
 **Moderno Plant X**, Built near OEE dashboards to monitor machine performance and equipment utilization.
 
