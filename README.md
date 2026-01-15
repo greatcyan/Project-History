@@ -5,7 +5,7 @@
 - My name is Cyrus, and I’m based in Lapu-Lapu City with my wife and kids—they inspire me to give my best every day. 
 
 - Professionally, I specialize in Power BI, helping businesses streamline and automate their reporting processes.
--
+
 - I handle end-to-end Power BI solutions, including understanding requirements, ETL, data modeling, dashboarding, testing and validation, and maintaining Power BI assets.
 
 - Outside of work, I honestly enjoy catching up on sleep to recharge, but I always make sure to spend quality time with my family.
