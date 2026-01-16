@@ -14,7 +14,7 @@
 
 - I am also a stocks trader, which gives me a perspective from a business user and a strong understanding of how data and charts connect to strategy and decision-making.
 
- Now, I’ve built strong fundamentals in data modeling, ETL, and analytics across operations and finance. My focus is scaling those skills into enterprise and consulting environments.
+- Now, I’ve built strong fundamentals in data modeling, ETL, and analytics across operations and finance. My focus is scaling those skills into enterprise and consulting environments.
 
 <img width="63" height="57" alt="image" src="https://github.com/user-attachments/assets/85f2242f-797b-4d22-8664-b0ccb8375e2c" />
 
