@@ -170,4 +170,6 @@ A quick reference for **Power BI, DAX, T-SQL, Data Modeling, and Consulting Prep
 
 ---
 
+--- I feel good about the conversation. It was very engaging, and I appreciated how we discussed real consulting experiences. It reinforced my interest in 3Cloud because it aligns with how I want to grow as a BI & Analytics consultant.
+
 *Prepared by Cyrus Baruc – Senior Consultant BI & Analytics Interview Prep*
