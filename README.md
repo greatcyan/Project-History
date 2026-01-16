@@ -80,14 +80,21 @@ A quick reference for **Power BI, DAX, T-SQL, Data Modeling, and Consulting Prep
 
 ## 2️⃣ T-SQL / SQL Server (Working Knowledge)
 
-| Concept | Example / Syntax | Notes |
+| Concept | Syntax / Example | Notes |
 |---------|-----------------|------|
-| **Basic SELECT** | `SELECT CustomerID, SUM(Sales) FROM Sales GROUP BY CustomerID` | Aggregations and grouping |
-| **Joins** | `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` | Combine multiple tables |
-| **CASE** | `SELECT CASE WHEN Sales>1000 THEN 'High' ELSE 'Low' END AS SalesCategory FROM Sales` | Conditional logic |
-| **Subqueries** | `SELECT CustomerID FROM Sales WHERE SalesAmount > (SELECT AVG(SalesAmount) FROM Sales)` | Filter based on other queries |
-| **CTEs** | `WITH TopSales AS (SELECT TOP 10 * FROM Sales ORDER BY Amount DESC) SELECT * FROM TopSales` | Improves readability for complex queries |
-| **Basic troubleshooting** | Check joins, NULLs, data types, indexes | Debugging query errors |
+| **Create Table** | `CREATE TABLE Customers (ID INT, Name NVARCHAR(50), Country NVARCHAR(50));` | Defines new table |
+| **Insert Data** | `INSERT INTO Customers (ID, Name, Country) VALUES (1, 'Cyrus', 'PH');` | Add rows |
+| **Select Data** | `SELECT * FROM Customers;` | Retrieve rows |
+| **Filtering** | `SELECT * FROM Customers WHERE Country='PH';` | WHERE clause |
+| **Aggregations** | `SELECT Country, SUM(Sales) AS TotalSales FROM Sales GROUP BY Country;` | SUM, COUNT, AVG, MIN, MAX |
+| **Joins** | `SELECT c.Name, o.Amount FROM Customers c INNER JOIN Orders o ON c.ID=o.CustomerID;` | INNER, LEFT, RIGHT, FULL OUTER |
+| **CASE** | `SELECT Name, CASE WHEN Sales>1000 THEN 'High' ELSE 'Low' END AS Category FROM Sales;` | Conditional logic |
+| **Subqueries** | `SELECT CustomerID FROM Sales WHERE SalesAmount > (SELECT AVG(SalesAmount) FROM Sales);` | Filter based on another query |
+| **CTEs** | `WITH TopSales AS (SELECT CustomerID, SUM(Sales) AS Total FROM Sales GROUP BY CustomerID) SELECT * FROM TopSales WHERE Total>1000;` | Temporary result set |
+| **Common Functions** | `GETDATE(), ISNULL(Column, 0), CAST(Column AS INT)` | Date, null handling, type conversion |
+| **Order / Limit** | `SELECT * FROM Sales ORDER BY Total DESC;` | Sorting |
+| **Update Data** | `UPDATE Customers SET Country='PHL' WHERE ID=1;` | Modify rows |
+| **Delete Data** | `DELETE FROM Customers WHERE ID=1;` | Remove rows |
 
 ---
 
@@ -112,6 +119,7 @@ A quick reference for **Power BI, DAX, T-SQL, Data Modeling, and Consulting Prep
 | **Time Intelligence** | `DATESYTD`, `SAMEPERIODLASTYEAR`, `TOTALYTD` | Year-to-date, growth comparisons |
 | **Relationship** | `RELATED`, `RELATEDTABLE` | Pull data across tables |
 | **Dynamic Measures** | `IF`, `SWITCH`, `ISBLANK` | Conditional or dynamic reporting |
+| **VAR (scalar or table)** | `VAR SalesTable = FILTER(Sales, Sales[Amount]>100) RETURN SUMX(SalesTable, Sales[Amount])` | Temporary variable (like SQL CTE) |
 
 ---
 
@@ -159,4 +167,3 @@ A quick reference for **Power BI, DAX, T-SQL, Data Modeling, and Consulting Prep
 ---
 
 *Prepared by Cyrus Baruc – Senior Consultant BI & Analytics Interview Prep*
-
