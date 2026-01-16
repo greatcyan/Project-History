@@ -1,16 +1,20 @@
 # 🙂 What I bring to the table
 
-I spent 10 years as an electronics technician, then intentionally transitioned into BI. I’ve built strong fundamentals in data modeling, ETL, and analytics across operations, finance, and IT. Now my focus is scaling those skills into enterprise and consulting environments.
-
 - My name is Cyrus, and I’m based in Lapu-Lapu City with my wife and kids—they inspire me to give my best every day. 
 
-- Professionally, I specialize in Power BI, helping businesses streamline and automate their reporting processes.
+- For the last 3 years I specialize in Power BI, helping businesses streamline and automate their reporting processes.
 
-- I handle end-to-end Power BI solutions, including understanding requirements, ETL, data modeling, dashboarding, testing and validation, and maintaining Power BI assets.
+- I handle end-to-end Power BI solutions, including understanding requirements and report objectives, ETL, data modeling, dashboarding, testing and validation, and maintaining Power BI assets.
 
 - Outside of work, I honestly enjoy catching up on sleep to recharge, but I always make sure to spend quality time with my family.
 
 - I believe data is the new oil, and my goal is to keep growing in this field while using my experience to inspire others to embrace data as a driver of transformation.
+
+- Prior to Data and BI roles, I spent over 10 years as an electronics technician, while learning programming for data analysis and visualization using Excel and Python then and applying the what I learned in test and repair operations. Which gave me a strong foundation in analytical thinking and problem-solving. I then intentionally transitioned into BI.
+
+- I am also a stocks trader, which gives me a perspective from a business user and a strong understanding of how data and charts connect to strategy and decision-making.
+
+ Now, I’ve built strong fundamentals in data modeling, ETL, and analytics across operations and finance. My focus is scaling those skills into enterprise and consulting environments.
 
 <img width="63" height="57" alt="image" src="https://github.com/user-attachments/assets/85f2242f-797b-4d22-8664-b0ccb8375e2c" />
 
