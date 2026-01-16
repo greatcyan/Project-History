@@ -1,7 +1,5 @@
-# Projects
+# 🙂 What I bring to the table
 
-
-## ☑️About me
 I spent 10 years as an electronics technician, then intentionally transitioned into BI. I’ve built strong fundamentals in data modeling, ETL, and analytics across operations, finance, and IT. Now my focus is scaling those skills into enterprise and consulting environments.
 
 - My name is Cyrus, and I’m based in Lapu-Lapu City with my wife and kids—they inspire me to give my best every day. 
@@ -14,7 +12,6 @@ I spent 10 years as an electronics technician, then intentionally transitioned i
 
 - I believe data is the new oil, and my goal is to keep growing in this field while using my experience to inspire others to embrace data as a driver of transformation.
 
-## ☑️ Projects
 <img width="63" height="57" alt="image" src="https://github.com/user-attachments/assets/85f2242f-797b-4d22-8664-b0ccb8375e2c" />
 
 **At D&E Air Conditioning**
@@ -59,3 +56,107 @@ I worked at Lexmark as a Finance Business Analyst, partnering closely with finan
 
 **At Excigence** 
 - Built a Python desktop application using Tkinter for the GUI and Pandas and Matplotlib for data preparation, analysis, and automated report generation for final testing of electronics and electrical devices.
+
+---
+
+# Senior Consultant – BI & Analytics Cheat Sheet
+
+A quick reference for **Power BI, DAX, T-SQL, Data Modeling, and Consulting Prep**.
+
+---
+
+## 1️⃣ Power BI Components
+
+| Component | Key Points | Tips / Notes |
+|-----------|------------|--------------|
+| **Data Modeling** | Star schema, Snowflake schema, fact & dimension tables, relationships | Optimize for query performance; avoid bi-directional unless necessary |
+| **Power Query (M)** | Data cleaning, transformations, merging, appending | Use `Table.TransformColumns`, `Merge Queries`, `Append Queries`, parameterize queries |
+| **DAX** | Measures, calculated columns, time intelligence | Common functions: `CALCULATE`, `FILTER`, `SUMX`, `ALL`, `RELATED`, `DATESYTD` |
+| **Visualizations** | Dashboards, paginated reports, drill-downs, slicers | Keep user-friendly, use KPIs & conditional formatting for quick insights |
+| **DirectQuery vs Import** | DirectQuery: real-time, Import: in-memory | Import is faster for complex calculations; DirectQuery good for large datasets |
+| **Licensing & Workspaces** | Pro vs Premium, workspace roles, permissions | Understand deployment, sharing, and security considerations |
+
+---
+
+## 2️⃣ T-SQL / SQL Server (Working Knowledge)
+
+| Concept | Example / Syntax | Notes |
+|---------|-----------------|------|
+| **Basic SELECT** | `SELECT CustomerID, SUM(Sales) FROM Sales GROUP BY CustomerID` | Aggregations and grouping |
+| **Joins** | `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` | Combine multiple tables |
+| **CASE** | `SELECT CASE WHEN Sales>1000 THEN 'High' ELSE 'Low' END AS SalesCategory FROM Sales` | Conditional logic |
+| **Subqueries** | `SELECT CustomerID FROM Sales WHERE SalesAmount > (SELECT AVG(SalesAmount) FROM Sales)` | Filter based on other queries |
+| **CTEs** | `WITH TopSales AS (SELECT TOP 10 * FROM Sales ORDER BY Amount DESC) SELECT * FROM TopSales` | Improves readability for complex queries |
+| **Basic troubleshooting** | Check joins, NULLs, data types, indexes | Debugging query errors |
+
+---
+
+## 3️⃣ ETL / Data Pipeline Prep
+
+| Step | Key Considerations |
+|------|------------------|
+| **Extract** | Source types: flat files, SQL Server, APIs, cloud services |
+| **Transform** | Clean, standardize, merge, deduplicate; ensure data quality |
+| **Load** | Into semantic model / Power BI dataset; optimize performance |
+| **Incremental Refresh** | Only refresh changed data to improve efficiency |
+| **Data Validation** | Cross-check totals, nulls, anomalies before report delivery |
+
+---
+
+## 4️⃣ DAX Functions Cheat
+
+| Category | Common Functions | Notes / Example |
+|----------|-----------------|----------------|
+| **Aggregation** | `SUM`, `AVERAGE`, `COUNTROWS` | Standard calculations |
+| **Filter & Context** | `CALCULATE`, `FILTER`, `ALL`, `ALLEXCEPT` | Modify row context for measures |
+| **Time Intelligence** | `DATESYTD`, `SAMEPERIODLASTYEAR`, `TOTALYTD` | Year-to-date, growth comparisons |
+| **Relationship** | `RELATED`, `RELATEDTABLE` | Pull data across tables |
+| **Dynamic Measures** | `IF`, `SWITCH`, `ISBLANK` | Conditional or dynamic reporting |
+
+---
+
+## 5️⃣ Data Modeling / Best Practices
+
+| Topic | Tips |
+|-------|------|
+| **Star Schema** | Single fact table with multiple dimension tables |
+| **Normalization** | Avoid storing repetitive data in fact tables |
+| **Calculated Columns vs Measures** | Prefer measures; calculated columns increase model size |
+| **Relationships** | One-to-many, single-direction preferred for performance |
+| **Optimizations** | Hide unnecessary columns, reduce cardinality, proper data types |
+
+---
+
+## 6️⃣ Client & Business Consulting Prep
+
+| Area | How to Prepare |
+|------|----------------|
+| **Requirements Gathering** | Use structured templates; clarify metrics, KPIs, and data sources |
+| **Communication** | Translate technical concepts into business terms |
+| **Problem Solving** | Be ready to explain how you handled missing or inconsistent data |
+| **Decision Support** | Show examples of dashboards that improved speed or quality of business decisions |
+
+---
+
+## 7️⃣ Sample STAR Stories (For Interview)
+
+| Situation | Task | Action | Result |
+|-----------|------|--------|--------|
+| OPEX Analytics | Finance team had manual Excel reports | Migrated data to Power BI, built dashboards with drill-down | Reduced manual effort, enabled faster decision-making |
+| IT Dashboard | Part-time BI project at AvantGuard | Integrated endpoint data, created monitoring dashboards | Improved cross-system validation, faster insights for operations |
+| Revenue Forecasting | D&E Air Conditioning | Gathered requirements, standardized data, built executive dashboards | Improved coordination, faster top-driver insights |
+
+---
+
+## 8️⃣ Quick Tips for Interview
+
+- Be ready to **walk through a full end-to-end Power BI project**: data prep → modeling → dashboard → report deployment  
+- Highlight your **DP-600 Fabric certification** and PL-300 skills  
+- Be confident explaining **T-SQL basics and working knowledge**  
+- Show **consulting mindset**: requirement gathering, business impact, self-service enablement  
+- Prepare questions about **client projects, tools, or processes** to show engagement  
+
+---
+
+*Prepared by Cyrus Baruc – Senior Consultant BI & Analytics Interview Prep*
+
